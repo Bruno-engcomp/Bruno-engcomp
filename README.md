@@ -46,7 +46,7 @@ Currently, I am focused on:
 - Practicing data structures and problem solving  
 - Strengthening Java fundamentals for real-world applications  
 
-🔹Personal Study System  
+ Personal Study System  
 - Daily Java study (1 hour consistently)  
 - Improving English for international opportunities  
 - Learning software engineering and system design basics  
