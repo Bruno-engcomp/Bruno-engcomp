@@ -74,6 +74,6 @@ Currently, I am focused on:
 ## 🌐 Connect with Me
 
 - GitHub: https://github.com/your-username
-- LinkedIn: (add when ready)
+- LinkedIn: 
 
 ---
