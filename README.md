@@ -10,7 +10,7 @@
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SEUUSERNAME&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+
 
 🎓 Computer Engineering Student at UFPA (2025–2030)  
 💻 Focused Java development, while also building a solid understanding of low-level programming with C/C++. 
